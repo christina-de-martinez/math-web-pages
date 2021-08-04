@@ -1,0 +1,16 @@
+<HTML>
+<HEAD>Rounding up and down
+<TITLE>
+</TITLE>
+</HEAD>
+<BODY>We study rounding up and down in Math Class. This is how you round down. Here is how: <P>
+Let's take the number<p>
+656<p>
+Let's say that we want to round up to the next ten. In the number 656, five is currently in the tens place. There is a six in the ones place.
+We change the five up to a six. the new rounded up number is now:<p>
+660<p>
+To round 656 down to the nearest ten, the number would be:<p> 650. 
+
+
+</BODY>
+</HTML>
